@@ -1,0 +1,7 @@
+wymagania funkcjonalne – dotycz¹ce tego co ma realizowaæ system; jakie ma spe³niaæ 
+funkcje, jakich dostarczaæ us³ug, jak zachowywaæ siê w okreœlonych sytuacjach
+wymagania niefunkcjonalne – dotycz¹ce tego jak system powinien realizowaæ swoje 
+zadania; np. wymagania dotycz¹ce koniecznych zasobów, ograniczeñ czasowych, 
+niezawodnoœci, bezpieczeñstwa, przenoœnoœci, wspó³pracy z okreœlonymi narzêdziami 
+i œrodowiskami, zgodnoœci z normami i standardami, a tak¿e przepisami prawnymi, 
+w tym dotycz¹cymi tajnoœci i prywatnoœci, itp.
