@@ -1,0 +1,1 @@
+Zazwyczaj Zespó³ Scrum sk³ada siê z od 3 do 9 osób. Dobrze, gdy ma charakter interdyscyplinarny i sk³ada siê z osób reprezentuj¹cych ró¿ne umiejêtnoœci. G³ówne role w projekcie graj¹: Scrum Master, W³aœciciel Produktu (ang. Product Owner) i Zespó³ Deweloperski (ang. Development Team).
